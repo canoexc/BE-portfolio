@@ -1,0 +1,9 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://106.14.216.223:3306/portfolio?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: ohno
+    password: Ohno3104!
+mybatis-plus:
+  mapper-location: classpath*:/mapper/**Mappar.xml
