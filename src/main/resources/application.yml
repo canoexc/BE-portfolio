@@ -10,12 +10,12 @@ com:
         expire: 604800
         header: Authorization
 aliyun:
-  accessKeyId: LTAI5tJfyVydk7t7dynno96Y
-  accessKeySecret: IBfnZexOinrzLXjc4vetcscE7WIdax
-  bucketName: grad-portfolio
-  endPoint: oss-cn-shanghai.aliyuncs.com
-  fileHost: pfl
-  urlPrefix: http://grad-portfolio.oss-cn-shanghai.aliyuncs.com/
+  accessKeyId:
+  accessKeySecret:
+  bucketName:
+  endPoint: 
+  fileHost: 
+  urlPrefix: 
 spring:
   servlet:
     multipart:
