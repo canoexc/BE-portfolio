@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://106.14.216.223:3306/portfolio?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    url: 
     username: ohno
-    password: Ohno3104!
+    password: 
     hikari:
       connection-timeout: 60000
       validation-timeout: 3000
